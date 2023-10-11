@@ -1,0 +1,76 @@
+#body{
+    padding-right: 200px;
+}
+#heros{
+    display: grid;
+}
+#my-image{
+    float: right;
+    height: 200px;
+    width: 200px;
+    margin-top: -250px;
+    margin-left: 40px;
+    border-radius: 50%;
+}
+.contact-me {
+    width: 100vw;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .contact-me h1 {
+    font-size: 56px;
+    color: #fbfbfb;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+  }
+  
+  .contact {
+    display: flex;
+    gap: 24px;
+  }
+  
+  .contact-card {
+    background-color: #fec86a;
+    padding: 10px;
+    border-radius: 8px;
+    display: flex;
+    gap: 10px;
+    margin-top: 7.5vh;
+  }
+#portfolio-container{
+    display: grid;
+}
+#portfolio-container1{
+    margin-top: 40px;
+    margin-left: 35%;
+}
+#portfolio-container2{
+    margin-top: -3px;
+    margin-left: 12.9%;
+}
+#portfolio-container3{
+    margin-left: 35%; 
+}
+#home-icons{
+    height: 10px;
+    width: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-right: 120px;
+    padding-top: -80px;
+}   
+#red{
+    color: rgb(255, 0, 0);
+}
+#contact1{
+    margin-left: -20px;
+    padding-right: 0px;
+}
+#resume{
+    background-color: #fec86ab8;
+}
